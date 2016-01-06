@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/hackmyresume VALIDATE resume.json",
-    "build": "npm test && ./node_modules/.bin/hackmyresume BUILD resume.json TO out/resume.html -t ./theme/"
+    "build": "npm test && ./node_modules/.bin/hackmyresume BUILD resume.json TO out/resume.html -t positive"
   },
   "author": "",
   "license": "ISC",

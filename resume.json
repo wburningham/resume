@@ -88,7 +88,7 @@
   "service": {
     "history": [{
       "flavor": "volunteer",
-      "position": "Volunteer Representative in Tijuana Mexico",
+      "position": "Volunteer Representative",
       "organization": "The Church of Jesus Christ of Latter-Day Saints",
       "url": "https://www.lds.org",
       "start": "2007-08",
@@ -97,7 +97,8 @@
         "Developed and implemented multi-conference training plans",
         "Managed data collection, analysis, and reporting",
         "Supervised work and welfare of 100 full-time volunteers"
-      ]
+      ],
+      "location": "Tijuana, Mexico"
     }, {
       "flavor": "volunteer",
       "position": "Director",
@@ -107,7 +108,8 @@
       "highlights": [
         "Oversee management of 501(c)(3) non-profit organization and distribution of funds",
         "Propose service opportunities to benefit individuals and large organizations"
-      ]
+      ],
+      "location":"SLC, Utah"
     }]
   },
   "skills": {
@@ -116,9 +118,9 @@
       "level": "advanced",
       "skills": [
         "JavaScript",
-        "HTML 5",
+        "HTML",
         "CSS",
-        "LAMP",
+        "MEAN",
         "MVC",
         "REST"
       ]
@@ -126,38 +128,18 @@
       "name": "JavaScript",
       "level": "master",
       "skills": [
+        "Vanilla",
         "Node.js",
         "Angular.js",
-        "jQuery",
-        "Bootstrap",
-        "React.js",
-        "Backbone.js"
+        "jQuery"
       ]
     }, {
       "name": "Database",
       "level": "intermediate",
       "skills": [
         "MySQL",
-        "PostgreSQL",
-        "NoSQL",
-        "ORM",
-        "Hibernate"
+        "MongoDB"
       ]
-    }],
-    "list": [{
-      "name": "C++",
-      "id": "1",
-      "summary": "Optional summary of your experience with the skill.",
-      "level": "9",
-      "years": 7,
-      "proof": "http://myblog.com/interesting-cplusplus-post"
-    }, {
-      "name": "Ruby",
-      "id": "2",
-      "summary": "Optional summary of your experience with the skill.",
-      "level": "9",
-      "years": 7,
-      "proof": "http://myblog.com/interesting-cplusplus-post"
     }]
   },
   "projects": [{
