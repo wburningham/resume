@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/hackmyresume VALIDATE resume.json",
-    "build": "./node_modules/.bin/hackmyresume BUILD resume.json TO out/resume.all"
+    "build": "npm test && ./node_modules/.bin/hackmyresume BUILD resume.json TO out/resume.html -t ./theme/"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hackmyresume": "^1.3.0-beta",
-    "install": "^0.4.1",
-    "npm": "^3.5.2"
+    "hackmyresume": "~1.3.0-beta",
+    "install": "~0.4.1",
+    "npm": "~3.5.2"
   }
 }

@@ -1,0 +1,256 @@
+{
+  "name": "Wes Burningham",
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Software Engineer",
+    "characterClass": "Programmer",
+    "brief": "**Full-stack software developer with 6+ years industry experience** specializing in scalable cloud architectures for this, that, and the other. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two-year-old beagle.",
+    "image": "icon.png"
+  },
+  "contact": {
+    "website": "http://wburningham.com",
+    "phone": "801-837-9992",
+    "email": "wburningham@gmail.com"
+  },
+  "location": {
+    "region": "UT",
+    "country": "US"
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "wburningham",
+      "url": "https://github.com/wburningham"
+    }
+  ],
+  "employment": {
+    "summary": "7+ years industry IT and software development experience.",
+    "history": [
+      {
+        "employer": "Qualtrics",
+        "position": "Techincal Engineering Lead",
+        "summary": "",
+        "start": "2015-10",
+        "current": true,
+        "highlights": []
+      },
+      {
+        "employer": "Qualtrics",
+        "position": "Engineer II",
+        "summary": "",
+        "start": "2013-09",
+        "end": "2015-10",
+        "highlights": []
+      },
+      {
+        "employer": "Qualtrics",
+        "position": "Engineer I",
+        "summary": "",
+        "start": "2013-01",
+        "end": "2013-08",
+        "highlights": []
+      },
+      {
+        "employer": "Qualtrics",
+        "position": "Intern",
+        "summary": "",
+        "start": "2011-10",
+        "end": "2013-01",
+        "highlights": []
+      },
+      {
+        "employer": "BYU McKay School of Education",
+        "url": "http://education.byu.edu",
+        "position": "Information System Engineer",
+        "start": "2009-08",
+        "end": "2011-10",
+        "highlights": [
+          "Design database architecture for new information system (MYLink)",
+          "Maintain web server, database server and file server",
+          "Consult with stakeholders on features and components of the system",
+          "Integrate the system with university data services"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "summary": "Information Technology Major with a Computer Science Minor",
+    "level": "degree",
+    "degree": "BSIT",
+    "history": [
+      {
+        "institution": "Brigham Young University",
+        "url": "https://byu.edu",
+        "start": "2006-09",
+        "end": "2012-12",
+        "grade": "3.69"
+      }
+    ]
+  },
+  "service": {
+    "history": [
+      {
+        "flavor": "volunteer",
+        "position": "Director",
+        "organization": "Burningham Foundation",
+        "start": "2008-08",
+        "current": true,
+        "highlights": [
+          "Oversee management of 501(c)(3) non-profit organization and distribution of funds",
+          "Propose service opportunities to benefit individuals and large organizations"
+        ]
+      },
+      {
+        "flavor": "volunteer",
+        "position": "Volunteer Representative in Tijuana Mexico",
+        "organization": "The Church of Jesus Christ of Latter-Day Saints",
+        "url": "https://www.lds.org",
+        "start": "2007-08",
+        "end": "2009-08",
+        "highlights": [
+          "Developed and implemented multi-conference training plans",
+          "Managed data collection, analysis, and reporting",
+          "Supervised work and welfare of 100 full-time volunteers"
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Web Development",
+        "level": "advanced",
+        "skills": [
+          "JavaScript",
+          "HTML 5",
+          "CSS",
+          "LAMP",
+          "MVC",
+          "REST"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "master",
+        "skills": [
+          "Node.js",
+          "Angular.js",
+          "jQuery",
+          "Bootstrap",
+          "React.js",
+          "Backbone.js"
+        ]
+      },
+      {
+        "name": "Database",
+        "level": "intermediate",
+        "skills": [
+          "MySQL",
+          "PostgreSQL",
+          "NoSQL",
+          "ORM",
+          "Hibernate"
+        ]
+      }
+    ],
+    "list": [
+      {
+        "name": "C++",
+        "id": "1",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "9",
+        "years": 7,
+        "proof": "http://myblog.com/interesting-cplusplus-post"
+      },
+      {
+        "name": "Ruby",
+        "id": "2",
+        "summary": "Optional summary of your experience with the skill.",
+        "level": "9",
+        "years": 7,
+        "proof": "http://myblog.com/interesting-cplusplus-post"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Qualtrics New Reporting UI/Application",
+      "category": "work-related",
+      "role": "Team Lead",
+      "start": "2015",
+      "end": "2016"
+    },
+    {
+      "title": "Qualtrics Case Management System",
+      "category": "work-related",
+      "role": "Team Lead",
+      "start": "2015",
+      "end": "2015"
+    },
+    {
+      "title": "Qualtrics SMS Surveys",
+      "category": "work-related",
+      "role": "Team Lead",
+      "start": "2014",
+      "end": "2014"
+    },
+    {
+      "title": "AutoSpell SublimeText 3 Plugin",
+      "description": "Sublime Text 3 packge to auto replace spelling mistakes.",
+      "summary": "When switching from vim to Sublime Text I missed the ability to add mappings for mispelled words. I created this plugin to solve that problem and it has since been downloaded over 5,000 times.",
+      "category": "side-project",
+      "url": "https://packagecontrol.io/packages/AutoSpell",
+      "start": "2014-11",
+      "end": "2014-11",
+      "keywords": [
+        "python"
+      ]
+    },
+    {
+      "title": "Qualtrics Offline Surveys App (iOS/Android)",
+      "category": "work-related",
+      "description": "The Qualtrics Offline Surveys App allows you to download and manage your surveys from the Qualtrics Research Suite. Surveys can be stored for offline use and responses can be submitted when an internet connection is available.",
+      "role": "Team Lead",
+      "url": "https://itunes.apple.com/us/app/qualtrics-surveys/id671910896",
+      "start": "2013-04",
+      "end": "2015-03",
+      "keywords": [
+        "javascript",
+        "ios",
+        "android"
+      ]
+    },
+    {
+      "title": "Web & Mobile Evaluation System for BYU College of Nursing",
+      "category": "school-project",
+      "description": "Web-based administration portal and mobile app for field work to evaluate performance of nursing students in the field.",
+      "summary": "Member of a team that used UX and Agile development methods to engineer a working web and mobile iPad system for field evaluation of predicators and nurses for the BYU College of Nursing.",
+      "role": "Team Member",
+      "start": "2011-10",
+      "end": "2012-05",
+      "keywords": [
+        "agile",
+        "javascript",
+        "ios",
+        "django"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "reading",
+      "summary": "Wes is a fan of fantasy novels. His favorite authors are Orson Scott Card and Brandon Sanderson."
+    },
+    {
+      "name": "hiking",
+      "summary": "Wes grew up close to 5 different canyons and enjoys hiking to water feature destinations. His tallest summit is Half Dome in Yosemite National Park."
+    },
+    {
+      "name": "running"
+    }
+  ]
+}
